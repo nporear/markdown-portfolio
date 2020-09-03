@@ -1,4 +1,4 @@
-*Pizza
-*Burgers
-*Burritos
-*Fries
+* Pizza
+* Burgers
+* Burritos
+* Fries
